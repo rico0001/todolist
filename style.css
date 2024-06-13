@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(253, 252, 248);
+  }
+  
+  .container { 
+    height: 200px;
+    position: center;
+  
+}
+        
+.center {
+          margin: 0;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+        }  
+
+.names {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  flex-direction: column;
+}
+
+.main-title{
+  text-align: center;
+}
+
+.gender{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.date {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.terms {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: column;
+}
+
+.request{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.reset{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.action-buttons{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.custom-field{
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  min-width: 100%;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.key-word {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

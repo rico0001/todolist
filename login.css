@@ -1,0 +1,33 @@
+#body {
+    background-color: rgb(233, 241, 237);
+}
+#login {
+    background-color: rgb(250, 253, 253);
+
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#Email {
+    text-align: center;
+    display: justifiable-center ;
+    justify-content: center;
+    align-items: center;
+    
+    flex-direction: column;
+}
+ 
+#password {
+    text-align: center;
+    display: justifiable-center ;
+    justify-content: center;
+    align-items: center;
+    
+    flex-direction: column;
+}
+ 
